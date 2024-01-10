@@ -1,0 +1,33 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Namste React",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-Kumar-Singh-1994/react-js-practice.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "abc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul-Kumar-Singh-1994/react-js-practice/issues"
+  },
+  "homepage": "https://github.com/Rahul-Kumar-Singh-1994/react-js-practice#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.1"
+  }
+}
